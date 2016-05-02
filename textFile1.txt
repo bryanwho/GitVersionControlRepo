@@ -1,2 +1,4 @@
 This is an empty text file
 I just made a change to my textFile1.txt.
+
+This is a line from branch2
